@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=devoce-width , inital-scale=1">
+    <title> assignment 9-2nd one</title>
+    <script type="text/javascript">
+        function validatepassword(){
+            var msg;
+            if(msg=document.form1.userpassword.value.length >5)
+            { msg="good";}
+            else
+            {msg="poor";}
+            document.getElementById('mylocation').innerText=msg;
+        }
+    </script>
+    </head>
+    <body>
+        <form name="form1">
+            <input type="password" value="" name="userpassword" onkeyup="validatepassword()">
+           <br> strength:<span id="mylocation"> no strength</span>
+        </form>
+    </body>
+    </html>
+    

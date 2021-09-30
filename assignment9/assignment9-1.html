@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=devoce-width , inital-scale=1">
+    <title> assignment 9-1st one</title>
+    <script type="text/javascript">
+        function getcubeandsquare(){
+            var number=document.getElementById("number").value;
+            let cube=number*number*number;
+            alert( number**3)
+            document.write("the cube is",+(number**3),"<br />");
+            alert(number**2);
+            document.write("the square is",+(number**2),"<br />");
+           
+
+        }
+    </script>
+</head>
+<body>
+    <form>
+        enter number:<input type="text" id="number" name="number" />
+        <br><br>
+        <input type="button" value="submit" onclick="getcubeandsquare()" />
+    </form>
+</body>
+</html>

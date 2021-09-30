@@ -1,0 +1,99 @@
+#background-image{
+    background-image:url(https://lovelytab.com/wp-content/uploads/2019/01/Tumblr-Aesthetic-Wallpapers-Free.jpg);
+    max-width:100%;
+    height:400px;
+    padding-top:30px;
+    color:white;
+    margin-top:25px;   
+    }
+    #content{
+    
+        max-width: 250px;
+        padding:10px 20px;
+        margin-top: 70px;
+        
+        }
+        s1{
+            font-style:oblique;
+            color: brown;
+        }
+        s2{
+            font-style: italic;
+            color:blue;
+            font-size: larger;
+        }
+        #bg1
+        {
+            background-image:url(https://st4.depositphotos.com/15640006/27539/v/380/depositphotos_275390308-stock-illustration-millimeter-grid-square-graph-paper.jpg);
+            max-width:100%;
+            height:300px;
+            color:black;
+            margin-top:-50px;
+            
+        }
+        #bg2{
+            float:left;
+            margin-top :-50px;
+            border-collapse: collapse;
+            padding: 10px 30px 20px 20px;
+        }
+        #bg3
+        {
+            background-image:url(https://img.freepik.com/free-photo/old-paper-texture-vintage-paper-background_262663-429.jpg?size=626&ext=jpg);
+            max-width:100%;
+            height:450px;
+            color:black;
+            margin-top:-90px;
+
+        }
+        #bg4{
+            background-image:url(https://media.istockphoto.com/photos/pastel-pink-ordered-brick-wall-texture-backgroundbackdrop-for-lady-or-picture-id1149052424?k=20&m=1149052424&s=612x612&w=0&h=JdzMxQROBzfPlQdGJ8-ZLgjOTxDCu8i5OGF2UxgR9MY=);
+            max-width:100%;
+            height:300px;
+            color:black;
+            margin-top:-50px;
+
+        }
+        s3{
+            color:rgb(80, 0, 67);
+            font-family:cursive;
+        }
+        p1{
+            float:centre;
+           padding-left:150px;
+            font-family:Verdana, Geneva, Tahoma, sans-serif;
+            font-size: large; 
+        }
+        p2{
+           
+           font-size: larger;
+           font-family: cursive;
+           margin-top:-300px;
+          padding-left:200px;
+        }
+        P3{
+            float:right;
+            font-family:cursive;
+            font-size:larger;
+            margin-top:-250px;
+            margin-right:400px;
+        }
+        p4{
+            float:right;
+            margin-right:50px;
+            margin-top:-200px;
+        }
+       ig{
+           float:left;
+           padding-left:500px;
+       }
+       ln{
+           float:right;
+           margin-top:0px;
+           margin-right:700px;
+       }
+       tw{
+           float:right;
+           margin-top:-68px;
+           margin-right:450px;
+       }
